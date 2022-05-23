@@ -5,6 +5,7 @@ local colors = {
   bg = "#1E1E1E",
   black = "#000000",
   blue = "#569CD6",
+  comment = "#00ffc8",
   context = "#606060",
   cursor_bg = "#AEAFAD",
   cursor_fg = "#515052",
