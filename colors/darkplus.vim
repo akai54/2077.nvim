@@ -1,27 +1,26 @@
-" Author: Christian Chiarulli <chrisatmachine@gmail.com>
 
 lua << EOF
-package.loaded['darkplus'] = nil
-package.loaded['darkplus.highlights'] = nil
-package.loaded['darkplus.Treesitter'] = nil
-package.loaded['darkplus.markdown'] = nil
-package.loaded['darkplus.Whichkey'] = nil
-package.loaded['darkplus.Git'] = nil
-package.loaded['darkplus.LSP'] = nil
-package.loaded['darkplus.Quickscope'] = nil
-package.loaded['darkplus.Telescope'] = nil
-package.loaded['darkplus.NvimTree'] = nil
-package.loaded['darkplus.Lir'] = nil
-package.loaded['darkplus.Buffer'] = nil
-package.loaded['darkplus.StatusLine'] = nil
-package.loaded['darkplus.IndentBlankline'] = nil
-package.loaded['darkplus.Dashboard'] = nil
-package.loaded['darkplus.DiffView'] = nil
-package.loaded['darkplus.Bookmarks'] = nil
-package.loaded['darkplus.Bqf'] = nil
-package.loaded['darkplus.Cmp'] = nil
-package.loaded['darkplus.SymbolOutline'] = nil
-package.loaded['darkplus.Misc'] = nil
+package.loaded['2077'] = nil
+package.loaded['2077.highlights'] = nil
+package.loaded['2077.Treesitter'] = nil
+package.loaded['2077.markdown'] = nil
+package.loaded['2077.Whichkey'] = nil
+package.loaded['2077.Git'] = nil
+package.loaded['2077.LSP'] = nil
+package.loaded['2077.Quickscope'] = nil
+package.loaded['2077.Telescope'] = nil
+package.loaded['2077.NvimTree'] = nil
+package.loaded['2077.Lir'] = nil
+package.loaded['2077.Buffer'] = nil
+package.loaded['2077.StatusLine'] = nil
+package.loaded['2077.IndentBlankline'] = nil
+package.loaded['2077.Dashboard'] = nil
+package.loaded['2077.DiffView'] = nil
+package.loaded['2077.Bookmarks'] = nil
+package.loaded['2077.Bqf'] = nil
+package.loaded['2077.Cmp'] = nil
+package.loaded['2077.SymbolOutline'] = nil
+package.loaded['2077.Misc'] = nil
 
-require("darkplus")
+require("2077")
 EOF
