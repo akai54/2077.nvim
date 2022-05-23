@@ -2,7 +2,7 @@
 
 2077 is a Cyberpunk colorscheme for [neovim].
 
-![Johnny](https://images.hdqwalls.com/wallpapers/cyberpunk-2077-johnny-silverhand-jq.jpg)
+![Johnny](https://images.hdqwalls.com/download/cyberpunk-2077-johnny-silverhand-jq-1920x1080.jpg)
 
 ## Supported Plugins (Work in progress)
 
