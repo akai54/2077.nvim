@@ -2,6 +2,7 @@ local colors = {
   fg = "#D4D4D4",
   bg = "#1E1E1E",
   alt_bg = "#252525",
+  black = "#000000",
   dark = "#222222",
   accent = "#BBBBBB",
   popup_back = "#2D2D30",
@@ -15,6 +16,7 @@ local colors = {
   tree_gray = "#252526",
   blue = "#569CD6",
   vivid_blue = "#4FC1FF",
+  vivid_sky_blue = "#03d8f3",
   dark_blue = "#223E55",
   folder_blue = "#42A5F5",
   light_blue = "#9CDCFE",
@@ -48,6 +50,7 @@ local colors = {
   ui4_blue = "#75BEFF",
   ui_orange = "#E8AB53",
   ui_purple = "#B180D7",
+  aureolin = "#FCEE0C",
 }
 
 return colors
