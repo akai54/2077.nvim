@@ -1,8 +1,8 @@
+![Johnny](https://images.hdqwalls.com/download/cyberpunk-2077-johnny-silverhand-jq-1920x1080.jpg)
+
 <h1 align="center">2077</h1>
 
-2077 is a Cyberpunk colorscheme for [neovim](https://github.com/neovim/neovim).
-
-![Johnny](https://images.hdqwalls.com/download/cyberpunk-2077-johnny-silverhand-jq-1920x1080.jpg)
+2077 is a Cyberpunk color scheme for [neovim](https://github.com/neovim/neovim).
 
 ## 🚀Motivation
 
