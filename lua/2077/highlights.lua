@@ -1,17 +1,17 @@
 local highlights = {
-  Normal = { fg = C.fg, bg = Config.transparent_background and "NONE" or C.bg },
+  Normal = { fg = C.blanc, bg = Config.transparent_background and "NONE" or C.bg },
   SignColumn = { bg = C.bg },
-  MsgArea = { fg = C.fg, bg = Config.transparent_background and "NONE" or C.bg },
-  ModeMsg = { fg = C.fg, bg = C.dark },
-  MsgSeparator = { fg = C.fg, bg = C.bg },
+  MsgArea = { fg = C.blanc, bg = Config.transparent_background and "NONE" or C.bg },
+  ModeMsg = { fg = C.blanc, bg = C.dark },
+  MsgSeparator = { fg = C.blanc, bg = C.bg },
   SpellBad = { fg = C.light_red, style = "underline" },
   SpellCap = { fg = C.yellow, style = "underline" },
   SpellLocal = { fg = C.green, style = "underline" },
   SpellRare = { fg = C.purple, style = "underline" },
-  NormalNC = { fg = C.fg, bg = Config.transparent_background and "NONE" or C.bg },
+  NormalNC = { fg = C.blanc, bg = Config.transparent_background and "NONE" or C.bg },
   Pmenu = { fg = C.light_gray, bg = C.tree_gray },
   PmenuSel = { bg = C.ui2_blue },
-  WildMenu = { fg = C.fg, bg = C.ui2_blue },
+  WildMenu = { fg = C.blanc, bg = C.ui2_blue },
   CursorLineNr = { fg = C.light_gray, style = "bold" },
   Comment = { fg = C.gray, style = "italic" },
   Folded = { fg = C.accent, bg = C.alt_bg },
@@ -63,7 +63,7 @@ local highlights = {
   Float = { fg = C.light_green },
   Identifier = { fg = C.light_blue },
   Function = { fg = C.yellow },
-  Operator = { fg = C.fg },
+  Operator = { fg = C.blanc },
   Type = { fg = C.cyan },
   StorageClass = { fg = C.blue },
   Structure = { fg = C.blue },
@@ -97,4 +97,3 @@ local highlights = {
 }
 
 return highlights
-
