@@ -24,8 +24,7 @@ own.
 * [LSP](https://github.com/neovim/nvim-lspconfig)
 * [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
 * [Telescope](https://github.com/nvim-telescope/telescope.nvim)
-  - Quickscope
-  - Highlights
+* [Quickscope](https://github.com/unblevable/quick-scope)
 * [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
