@@ -1,10 +1,9 @@
 local IndentBlankline = {
-  IndentBlanklineContextChar = { fg = C.context },
+  IndentBlanklineContextChar = { fg = C.cc },
   IndentBlanklineContextStart = { style = "underline" },
-  IndentBlanklineChar = { fg = C.dark_gray },
-  IndentBlanklineSpaceChar = { fg = C.cyan_test },
-  IndentBlanklineSpaceCharBlankline = { fg = C.info_yellow },
+  IndentBlanklineChar = { fg = C.co },
+  IndentBlanklineSpaceChar = { fg = C.vivid_sky_blue },
+  IndentBlanklineSpaceCharBlankline = { fg = C.aurelion },
 }
 
 return IndentBlankline
-
