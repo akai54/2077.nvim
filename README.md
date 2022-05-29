@@ -19,10 +19,11 @@ own.
 - [Packer](https://github.com/wbthomason/packer.nvim)
 - [Telescope](https://github.com/nvim-telescope/telescope.nvim)
 - [Quickscope](https://github.com/unblevable/quick-scope)
+- [Bqf](https://github.com/kevinhwang91/nvim-bqf)
+- [BarBar](https://github.com/wSzki/nvim_tabline)
 
 (Work in progress)
 
-- [Bqf](https://github.com/kevinhwang91/nvim-bqf)
 - [DiffView](https://github.com/sindrets/diffview.nvim)
 - [LSP](https://github.com/neovim/nvim-lspconfig)
 - [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
