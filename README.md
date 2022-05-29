@@ -25,6 +25,7 @@ own.
 - [DiffView](https://github.com/sindrets/diffview.nvim)
 - [Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
 - [GitSigns](https://github.com/lewis6991/gitsigns.nvim)
+- [Lir](https://github.com/tamago324/lir.nvim)
 
 (Work in progress)
 
