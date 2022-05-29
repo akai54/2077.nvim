@@ -1,6 +1,7 @@
 local Bqf = {
-		BqfPreviewBorder = {fg = C.fg, },
-		BqfPreviewRange = {bg = C.ui2_blue, },
+  BqfPreviewBorder = { fg = C.gray_new },
+  BqfPreviewRange = { bg = C.cyan_test },
 }
 
 return Bqf
+
