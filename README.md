@@ -23,6 +23,7 @@ own.
 - [BarBar](https://github.com/wSzki/nvim_tabline)
 - [Symbols-outline](https://github.com/simrat39/symbols-outline.nvim)
 - [DiffView](https://github.com/sindrets/diffview.nvim)
+- [Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
 
 (Work in progress)
 
