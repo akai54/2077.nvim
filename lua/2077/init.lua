@@ -24,7 +24,6 @@ local StatusLine = require("2077.StatusLine")
 local IndentBlankline = require("2077.IndentBlankline")
 local Dashboard = require("2077.Dashboard")
 local DiffView = require("2077.DiffView")
-local Bookmarks = require("2077.Bookmarks")
 local Bqf = require("2077.Bqf")
 local Cmp = require("2077.Cmp")
 local Packer = require("2077.Packer")
@@ -49,7 +48,6 @@ local skeletons = {
 	Dashboard,
 	DiffView,
 	Bookmarks,
-	Bqf,
 	Cmp,
 	Packer,
 	SymbolOutline,

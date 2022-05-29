@@ -17,7 +17,6 @@ package.loaded['2077.IndentBlankline'] = nil
 package.loaded['2077.Dashboard'] = nil
 package.loaded['2077.DiffView'] = nil
 package.loaded['2077.Bookmarks'] = nil
-package.loaded['2077.Bqf'] = nil
 package.loaded['2077.Cmp'] = nil
 package.loaded['2077.SymbolOutline'] = nil
 package.loaded['2077.Misc'] = nil
