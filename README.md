@@ -24,6 +24,7 @@ own.
 - [Symbols-outline](https://github.com/simrat39/symbols-outline.nvim)
 - [DiffView](https://github.com/sindrets/diffview.nvim)
 - [Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
+- [GitSigns](https://github.com/lewis6991/gitsigns.nvim)
 
 (Work in progress)
 
