@@ -17,16 +17,16 @@ own.
 - [Whichkey](https://github.com/folke/which-key.nvim)
 - [Lualine](https://github.com/nvim-lualine/lualine.nvim)
 - [Packer](https://github.com/wbthomason/packer.nvim)
-  (Work in progress)
+- [Telescope](https://github.com/nvim-telescope/telescope.nvim)
+- [Quickscope](https://github.com/unblevable/quick-scope)
 
-* [Bqf](https://github.com/kevinhwang91/nvim-bqf)
-* [DiffView](https://github.com/sindrets/diffview.nvim)
-* [LSP](https://github.com/neovim/nvim-lspconfig)
-* [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
-* [Telescope](https://github.com/nvim-telescope/telescope.nvim)
-* [Quickscope](https://github.com/unblevable/quick-scope)
-* [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+(Work in progress)
 
+- [Bqf](https://github.com/kevinhwang91/nvim-bqf)
+- [DiffView](https://github.com/sindrets/diffview.nvim)
+- [LSP](https://github.com/neovim/nvim-lspconfig)
+- [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
+- [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 
 ## ⬇️ Installation
