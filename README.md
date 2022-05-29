@@ -21,10 +21,11 @@ own.
 - [Quickscope](https://github.com/unblevable/quick-scope)
 - [Bqf](https://github.com/kevinhwang91/nvim-bqf)
 - [BarBar](https://github.com/wSzki/nvim_tabline)
+- [Symbols-outline](https://github.com/simrat39/symbols-outline.nvim)
+- [DiffView](https://github.com/sindrets/diffview.nvim)
 
 (Work in progress)
 
-- [DiffView](https://github.com/sindrets/diffview.nvim)
 - [LSP](https://github.com/neovim/nvim-lspconfig)
 - [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
 - [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
