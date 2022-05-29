@@ -1,5 +1,5 @@
 local DiffView = {
-  DiffViewNormal = { fg = C.gray, bg = C.alt_bg },
+  DiffViewNormal = { fg = C.gray, bg = C.bg_2 },
   DiffviewStatusAdded = { fg = C.sign_add },
   DiffviewStatusModified = { fg = C.sign_change },
   DiffviewStatusRenamed = { fg = C.sign_change },
@@ -10,4 +10,3 @@ local DiffView = {
 }
 
 return DiffView
-
