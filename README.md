@@ -2,15 +2,13 @@
 
 <h1 align="center">2077</h1>
 
-<p style="text-align: center;">2077 is a Cyberpunk color scheme written in Lua for [Neovim](https://github.com/neovim/neovim).</p>
+<div align="center">
+  Cyberpunk inspired color scheme written in Lua for <a href="https://github.com/neovim/neovim">Neovim</a>.
+</div>
 
 ## 🚀Motivation
 
-So at first I was using this [Darkplus](https://github.com/LunarVim/darkplus.nvim) color scheme, then
-I wanted something different, so I started searching and I already knew that I wanted something dark
-and after a while I realized that I really like cyberpunk design and colors, so I tried to find a
-suitable color scheme for neovim but, nada, nothing was really fascinating or convenient so I made my
-own.
+So at first I was using this [Darkplus](https://github.com/LunarVim/darkplus.nvim) color scheme, then I wanted something different, so I started searching and as I like Dark color schemes and I really like Cyberpunk design and colors, I tried to find a suitable color scheme for Neovim but, nada, nothing was really fascinating or convenient so I made my own.
 
 ## Supported Plugins
 
