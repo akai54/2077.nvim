@@ -2,7 +2,7 @@
 
 <h1 align="center">2077</h1>
 
-   2077 is a Cyberpunk color scheme written in Lua for [neovim](https://github.com/neovim/neovim).
+<p style="text-align: center;">2077 is a Cyberpunk color scheme written in Lua for [Neovim](https://github.com/neovim/neovim).</p>
 
 ## 🚀Motivation
 
