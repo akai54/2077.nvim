@@ -16,7 +16,6 @@ local NvimTree = {
   NvimTreeGitNew = { fg = C.comment },
   NvimTreeGitRenamed = { fg = C.comment },
   NvimTreeGitDeleted = { fg = C.purple_test_2 },
-  NvimTreeGitDirty = { fg = C.aurelion },
   NvimTreeSymlink = { fg = C.cyan },
   NvimTreeRootFolder = { fg = C.gray_new, style = "bold" },
   NvimTreeExecFile = { fg = C.cyan },
