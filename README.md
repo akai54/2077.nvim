@@ -2,7 +2,7 @@
 
 <h1 align="center">2077</h1>
 
-2077 is a Cyberpunk color scheme for [neovim](https://github.com/neovim/neovim).
+    2077 is a Cyberpunk color scheme written in Lua for [neovim](https://github.com/neovim/neovim).
 
 ## 🚀Motivation
 
@@ -26,13 +26,13 @@ own.
 - [Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
 - [GitSigns](https://github.com/lewis6991/gitsigns.nvim)
 - [Lir](https://github.com/tamago324/lir.nvim)
+- [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
+- [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 
 (Work in progress)
 
 - [LSP](https://github.com/neovim/nvim-lspconfig)
-- [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
 - [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-- [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 
 ## ⬇️ Installation
 
