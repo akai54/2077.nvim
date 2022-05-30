@@ -25,7 +25,7 @@ local markdown = {
   markdownLinkText = { fg = C.cc },
   markdownFootnote = { fg = C.orange_new },
   markdownFootnoteDefinition = { fg = C.orange_new },
-  markdownEscape = { fg = C.aurelion },
+  --markdownEscape = { fg = C.aurelion },
 }
 
 return markdown
