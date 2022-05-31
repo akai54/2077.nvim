@@ -42,7 +42,6 @@ local Treesitter = {
 	TSPunctSpecial = { fg = C.cy },
 	TSString = { fg = C.orange_new },
 	TSStringRegex = { fg = C.orange_new },
-	TSStringEscape = { fg = C.aureolin_orange },
 	TSTag = { fg = C.cy },
 	TSEmphasis = { style = "italic" },
 	TSUnderline = { style = "underline" },
