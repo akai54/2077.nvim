@@ -2,6 +2,7 @@ local colors = {
 	accent = "#BBBBBB",
 	gray_new = "#d7d8d8",
 	blanc = "#e2dddf",
+	bb = "#F8FFFD",
 	alt_bg = "#252525",
 	bg = "#1E1E1E",
 	bg_2 = "#16231D",
