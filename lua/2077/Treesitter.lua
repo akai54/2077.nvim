@@ -21,7 +21,7 @@ local Treesitter = {
 	TSBoolean = { fg = C.purple },
 	TSCharacter = { fg = C.ola },
 	TSError = { fg = C.red_new },
-	TSFunction = { fg = C.magenta },
+	TSFunction = { fg = C.cc },
 	TSFuncBuiltin = { fg = C.aureolin },
 	TSMethod = { fg = C.aureolin },
 	TSConstMacro = { fg = C.vivid_sky_blue },
