@@ -13,6 +13,7 @@ local colors = {
 	cyan = "#4EC9B0",
 	cy = "#85EBD9",
 	d = "#00FF5B",
+	dp = "#900C3F",
 	ii = "#1afe49",
 	ei = "#6a7e6a",
 	db = "#005066",
