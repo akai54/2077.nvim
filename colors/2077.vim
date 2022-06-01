@@ -1,8 +1,6 @@
 
 lua << EOF
 package.loaded['2077'] = nil
-package.loaded['2077.highlights'] = nil
-package.loaded['2077.Treesitter'] = nil
 package.loaded['2077.markdown'] = nil
 package.loaded['2077.Whichkey'] = nil
 package.loaded['2077.Git'] = nil
@@ -20,6 +18,8 @@ package.loaded['2077.Bookmarks'] = nil
 package.loaded['2077.Cmp'] = nil
 package.loaded['2077.SymbolOutline'] = nil
 package.loaded['2077.Misc'] = nil
+package.loaded['2077.highlights'] = nil
+package.loaded['2077.Treesitter'] = nil
 
 require("2077")
 EOF
