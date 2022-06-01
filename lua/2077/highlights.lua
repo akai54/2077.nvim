@@ -58,7 +58,7 @@ local highlights = {
 	PmenuThumb = { bg = C.comment },
 	PreCondit = { fg = C.purple_test_2 },
 	PreProc = { fg = C.purple_test_2 },
-	Question = { fg = C.orange_new },
+	Question = { fg = C.dp },
 	QuickFixLine = { bg = C.ui5_blue },
 	Repeat = { fg = C.purple_test_2 },
 	Search = { fg = C.light_gray, bg = C.search_blue },
