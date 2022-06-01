@@ -19,7 +19,7 @@ local Treesitter = {
 	TSFloat = { fg = C.light_green },
 	TSNumber = { fg = C.light_green },
 	TSBoolean = { fg = C.purple },
-	TSCharacter = { fg = C.ola },
+	TSCharacter = { fg = C.dp },
 	TSError = { fg = C.red_new },
 	TSFunction = { fg = C.bb },
 	TSFuncBuiltin = { fg = C.aureolin },
@@ -40,8 +40,8 @@ local Treesitter = {
 	TSTagAttribute = { fg = C.vivid_sky_blue },
 	TSPunctBracket = { fg = C.gray_new },
 	TSPunctSpecial = { fg = C.purple },
-	TSString = { fg = C.ola },
-	TSStringRegex = { fg = C.ola },
+	TSString = { fg = C.dp },
+	TSStringRegex = { fg = C.dp },
 	TSTag = { fg = C.purple },
 	TSEmphasis = { style = "italic" },
 	TSUnderline = { style = "underline" },
@@ -51,7 +51,7 @@ local Treesitter = {
 	TSKeywordOperator = { fg = C.purple },
 	TSStructure = { fg = C.vivid_sky_blue },
 	TSStrong = { fg = C.purple, style = "bold" },
-	TSQueryLinterError = { fg = C.ola },
+	TSQueryLinterError = { fg = C.dp },
 	TreesitterContext = { bg = C.cy },
 }
 
