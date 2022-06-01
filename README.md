@@ -38,6 +38,10 @@ Install via package manager
 use 'akai54/2077.nvim'
 ```
 
+##   Screenshots
+![](Screenshots/first.png)
+![](Screenshots/second.png)
+
 ## 🔥Contributions
 
 Pull requests are welcome.
