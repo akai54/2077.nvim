@@ -26,9 +26,6 @@ So at first I was using this [Darkplus](https://github.com/LunarVim/darkplus.nvi
 - [Lir](https://github.com/tamago324/lir.nvim)
 - [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
 - [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-
-(Work in progress)
-
 - [LSP](https://github.com/neovim/nvim-lspconfig)
 - [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 
