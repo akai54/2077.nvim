@@ -14,6 +14,7 @@ local colors = {
 	d = "#00FF5B",
 	ii = "#1afe49",
 	ei = "#6a7e6a",
+	db = "#005066",
 	tree_sign_add = "#73C991",
 	context = "#606060",
 	cursor_bg = "#AEAFAD",
