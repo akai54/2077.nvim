@@ -12,22 +12,22 @@ So at first I was using this [Darkplus](https://github.com/LunarVim/darkplus.nvi
 
 ## Supported Plugins
 
-- [Whichkey](https://github.com/folke/which-key.nvim)
-- [Lualine](https://github.com/nvim-lualine/lualine.nvim)
-- [Packer](https://github.com/wbthomason/packer.nvim)
-- [Telescope](https://github.com/nvim-telescope/telescope.nvim)
-- [Quickscope](https://github.com/unblevable/quick-scope)
-- [Bqf](https://github.com/kevinhwang91/nvim-bqf)
 - [BarBar](https://github.com/wSzki/nvim_tabline)
-- [Symbols-outline](https://github.com/simrat39/symbols-outline.nvim)
+- [Bqf](https://github.com/kevinhwang91/nvim-bqf)
 - [DiffView](https://github.com/sindrets/diffview.nvim)
-- [Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
 - [GitSigns](https://github.com/lewis6991/gitsigns.nvim)
+- [Indent Blankline](https://github.com/lukas-reineke/indent-blankline.nvim)
 - [Lir](https://github.com/tamago324/lir.nvim)
-- [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
-- [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 - [LSP](https://github.com/neovim/nvim-lspconfig)
+- [Lualine](https://github.com/nvim-lualine/lualine.nvim)
+- [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+- [NvimTree](https://github.com/kyazdani42/nvim-tree.lua)
+- [Packer](https://github.com/wbthomason/packer.nvim)
+- [Quickscope](https://github.com/unblevable/quick-scope)
+- [Symbols-outline](https://github.com/simrat39/symbols-outline.nvim)
+- [Telescope](https://github.com/nvim-telescope/telescope.nvim)
 - [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+- [Whichkey](https://github.com/folke/which-key.nvim)
 
 ## ⬇️ Installation
 
@@ -39,8 +39,16 @@ use 'akai54/2077.nvim'
 ```
 
 ##   Screenshots
+![](Screenshots/packer.png)
+![](Screenshots/which-key.png)
+![](Screenshots/NvimTree.png)
+![](Screenshots/Telescope.png)
 ![](Screenshots/first.png)
-![](Screenshots/second.png)
+![](Screenshots/Screenshot_20220526_234955.png)
+![](Screenshots/Screenshot_20220526_235055.png)
+![](Screenshots/Screenshot_20220526_235110.png)
+![](Screenshots/Screenshot_20220526_235135.png)
+![](Screenshots/Screenshot_20220526_235155.png)
 
 ## 🔥Contributions
 
